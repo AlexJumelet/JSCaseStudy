@@ -11,5 +11,6 @@
     text-align: center;
     background: #00504A 0% 0% no-repeat padding-box;
     border-radius: 0px 10px 10px 10px;
+    
 }
 </style>
