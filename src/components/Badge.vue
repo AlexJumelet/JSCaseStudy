@@ -38,7 +38,6 @@
   font: normal normal bold 20px/19px Open Sans;
   letter-spacing: 0px;
   color: #00504a;
-  display: flex;
 }
 
 .Badge__Content {
@@ -61,4 +60,5 @@
 .d {
   fill: #54b9af;
 }
+
 </style>
